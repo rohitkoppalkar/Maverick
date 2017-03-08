@@ -46,3 +46,14 @@ C:\Users\RKK\Documents\Visual Studio 2010\Projects\Maverick\Maverick_1\obj\x86\D
 C:\Users\RKK\Documents\Visual Studio 2010\Projects\Maverick\Maverick_1\obj\x86\Debug\Maverick.exe
 C:\Users\RKK\Documents\Visual Studio 2010\Projects\Maverick\Maverick_1\obj\x86\Debug\Maverick.xml
 C:\Users\RKK\Documents\Visual Studio 2010\Projects\Maverick\Maverick_1\obj\x86\Debug\Maverick.pdb
+C:\Users\RKK\Documents\Visual Studio 2010\Projects\Maverick\Maverick\bin\Debug\Maverick.exe
+C:\Users\RKK\Documents\Visual Studio 2010\Projects\Maverick\Maverick\bin\Debug\Maverick.pdb
+C:\Users\RKK\Documents\Visual Studio 2010\Projects\Maverick\Maverick\bin\Debug\Maverick.xml
+C:\Users\RKK\Documents\Visual Studio 2010\Projects\Maverick\Maverick\obj\x86\Debug\Maverick.vbprojResolveAssemblyReference.cache
+C:\Users\RKK\Documents\Visual Studio 2010\Projects\Maverick\Maverick\obj\x86\Debug\Maverick.Form1.resources
+C:\Users\RKK\Documents\Visual Studio 2010\Projects\Maverick\Maverick\obj\x86\Debug\Maverick.Resources.resources
+C:\Users\RKK\Documents\Visual Studio 2010\Projects\Maverick\Maverick\obj\x86\Debug\Maverick.SplashScreen1.resources
+C:\Users\RKK\Documents\Visual Studio 2010\Projects\Maverick\Maverick\obj\x86\Debug\Maverick.vbproj.GenerateResource.Cache
+C:\Users\RKK\Documents\Visual Studio 2010\Projects\Maverick\Maverick\obj\x86\Debug\Maverick.exe
+C:\Users\RKK\Documents\Visual Studio 2010\Projects\Maverick\Maverick\obj\x86\Debug\Maverick.xml
+C:\Users\RKK\Documents\Visual Studio 2010\Projects\Maverick\Maverick\obj\x86\Debug\Maverick.pdb
